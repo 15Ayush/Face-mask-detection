@@ -13,7 +13,7 @@ segmentation. Semantic segmentation is the process of assigning a label to each
 pixel of the image. In our case the labels are either face or non-face. Semantic
 segmentation is thus used to separate out the face by classifying each pixel of
 the image as face or background. Also, most of the widely used face detection
-algorithms tend to focus on the detection of frontal faces
+algorithms tend to focus on the detection of frontal faces.
 
 
 After the breakout of the worldwide pandemic COVID-19, there arises a severe
